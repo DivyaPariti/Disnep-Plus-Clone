@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Link to Actual Clone: Click below
+
+Disnep Hotstar Clone : https://disney-hotstar-clone-1fa1c.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
